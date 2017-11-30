@@ -1,0 +1,8 @@
+C:\Users\Eyüp Türker\Documents\GitHub\webz\src\webz\build\Webz.Core.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz\src\webz\build\Webz.Core.pdb
+C:\Users\Eyüp Türker\Documents\GitHub\webz\src\webz\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\Eyüp Türker\Documents\GitHub\webz\src\webz\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\Eyüp Türker\Documents\GitHub\webz\src\webz\Core\obj\Release\Webz.Core.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz\src\webz\Core\obj\Release\Webz.Core.pdb
+C:\Users\Eyüp Türker\Documents\GitHub\webz\build\Webz.Core.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz\build\Webz.Core.pdb

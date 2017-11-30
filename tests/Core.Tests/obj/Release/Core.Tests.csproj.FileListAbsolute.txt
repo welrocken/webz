@@ -1,0 +1,13 @@
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\bin\Release\Webz.Core.Tests.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\bin\Release\Webz.Core.Tests.pdb
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\obj\Release\Core.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\obj\Release\Core.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\obj\Release\Webz.Core.Tests.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz\tests\Core.Tests\obj\Release\Webz.Core.Tests.pdb
